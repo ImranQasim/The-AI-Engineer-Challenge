@@ -196,12 +196,28 @@ For each prompt Identify what capability is being tested (e.g., *summarization a
 
 ---
 
-**1. Prompt:**  
-Explain the concept of object-oriented programming in simple terms to a complete beginner.  
+**1. Prompt:**
+Explain the concept of object-oriented programming in simple terms to a complete beginner.
 **Aspect Tested:**  <!-- Write your answer here -->
 
-**Response:**  
-<!-- Add your app's response here -->
+**Response:**
+Sure! Think of object-oriented programming (OOP) like organizing a big toolbox filled with different tools. In this analogy:
+
+1. **Objects**: These are like the tools in your toolbox. Each tool has its unique purpose (like a hammer, screwdriver, or wrench), just like objects in programming have specific data and functions.
+
+2. **Classes**: A class is like the blueprint or design for a tool. For example, you might have a blueprint for a hammer that describes how it should look and what it can do. In programming, a class defines what an object will be like—its characteristics (data) and what actions it can perform (functions).
+
+3. **Attributes**: These are the properties or characteristics of an object. If we continue with the hammer example, attributes could include its weight, color, and material.
+
+4. **Methods**: These are the actions or functions that an object can perform. For a hammer, methods might include 'hit' or 'lift'. In programming, methods allow the class to do something.
+
+5. **Inheritance**: This is like having a new tool that is based on an existing one. Let's say you create a special type of hammer, like a sledgehammer. This new tool can inherit characteristics from the regular hammer but also have some additional features. In OOP, one class can inherit properties and methods from another class.
+
+6. **Encapsulation**: This means keeping the details of an object private and only allowing access through well-defined methods. It's like having a tool that has a safety cover—people can't use it until they understand how to remove that cover properly. In programming, this keeps your data safe from unintended changes.
+
+7. **Polymorphism**: This means that different objects can be treated as instances of the same class through a common interface. It's like having a universal remote that can control multiple devices (like a TV, sound system, and DVD player). In programming, this means that a function can work with different types of objects as long as they follow a certain protocol.
+
+In summary, object-oriented programming is about creating well-organized, reusable code by grouping related information and functions together in the form of objects. It helps developers manage complexity and build more scalable applications!
 
 ---
 
@@ -214,21 +230,41 @@ Read the following paragraph and provide a concise summary of the key points…
 
 ---
 
-**3. Prompt:**  
-Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.  
+**3. Prompt:**
+Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
 **Aspect Tested:**  <!-- Write your answer here -->
 
-**Response:**  
-<!-- Add your app's response here -->
+**Response:**
+In a forgotten corner of a bustling city, Rusty, an old janitorial robot, spent his days cleaning the empty halls of a dilapidated library. He longed for companionship, but the world had moved on. One rainy afternoon, as Rusty polished a dusty shelf, he discovered a small, colorful parakeet perched atop a stack of books. The bird, named Petal, was lost and chirping anxiously.
+
+At first, Rusty didn't know how to approach her. He gently extended a mechanical finger, and to his surprise, Petal hopped closer, intrigued by the shiny metal. Day by day, they became inseparable—Rusty carefully guided Petal to explore the library's wonders, while she filled his silent existence with joy.
+
+Together, they brought life back to the forgotten place, reminding the city that even in the most unexpected corners, friendship could bloom like the brightest of flowers.
 
 ---
 
-**4. Prompt:**  
-If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?  
+**4. Prompt:**
+If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
 **Aspect Tested:**  <!-- Write your answer here -->
 
-**Response:**  
-<!-- Add your app's response here -->
+**Response:**
+To find out how many packs of apples and oranges you need to buy to get exactly 12 apples and 9 oranges, you can divide the total amount of each fruit by the number of fruits in each pack.
+
+1. **For apples:**
+   - Each pack contains 4 apples.
+   - To find out how many packs you need for 12 apples:
+   \[
+   \text{Packs of apples} = \frac{12 \text{ apples}}{4 \text{ apples per pack}} = 3 \text{ packs}
+   \]
+
+2. **For oranges:**
+   - Each pack contains 3 oranges.
+   - To find out how many packs you need for 9 oranges:
+   \[
+   \text{Packs of oranges} = \frac{9 \text{ oranges}}{3 \text{ oranges per pack}} = 3 \text{ packs}
+   \]
+
+So, you need to buy **3 packs of apples** and **3 packs of oranges** to get exactly 12 apples and 9 oranges.
 
 ---
 
@@ -245,8 +281,8 @@ Rewrite the following paragraph in a professional, formal tone…
 
 Do the answers appear to be correct and useful?
 
-**Your Answer:**  
-<!-- Write your answer here -->
+**Your Answer:**
+Yes, the answers are correct and useful. The responses demonstrate accurate technical explanations (OOP concepts, mathematical calculations), creative storytelling ability, and comprehensive problem-solving. Each response is well-structured, informative, and directly addresses the prompt without errors.
 
 ---
 
@@ -256,27 +292,93 @@ Now test your app with **real-world prompts that are relevant to your use case**
 
 ---
 
-**Prompt:**  
-<!-- Your prompt -->
+**Prompt:**
+I feel overwhelmed with work and struggling to stay motivated. How can I manage my stress better?
 
-**Result:**  
-<!-- App response -->
+**Result:**
+It's completely normal to feel overwhelmed at times, especially with work responsibilities. Here are some strategies to help you manage stress and stay motivated:
+
+1. **Prioritize Tasks**: Start by making a list of your tasks and prioritizing them. Focus on what's most important or time-sensitive first. Breaking tasks into smaller, manageable chunks can make them feel less daunting.
+
+2. **Set Realistic Goals**: Define what you want to accomplish each day. Set small, achievable goals to provide a sense of accomplishment. This can boost your motivation and reduce feelings of overwhelm.
+
+3. **Take Breaks**: Schedule regular breaks to recharge your mind. Even a few minutes away from your workspace can help you return with renewed focus.
+
+4. **Practice Mindfulness or Meditation**: Engaging in mindfulness practices can help reduce stress. Try incorporating deep breathing exercises or a short meditation into your day to clear your mind and gain perspective.
+
+5. **Establish Boundaries**: If possible, set clear boundaries around your work time. This includes saying 'no' when appropriate and ensuring that your work doesn't spill into your personal time.
+
+6. **Stay Organized**: Keep your workspace organized and decluttered. A clean environment can help reduce distractions and create a sense of calm.
+
+7. **Seek Support**: Don't hesitate to reach out to colleagues or friends for support. Sometimes just talking about what you're feeling can provide relief.
+
+8. **Engage in Physical Activity**: Regular exercise can significantly reduce stress levels. Find an activity you enjoy, whether it's walking, yoga, or dancing, and try to incorporate it into your routine.
+
+9. **Maintain a Healthy Lifestyle**: Ensure you're eating well, staying hydrated, and getting enough sleep. A healthy body can better cope with stress.
+
+10. **Reflect and Adjust**: Take time to reflect on what specifically is causing your stress. If certain tasks or situations consistently overwhelm you, consider whether there are adjustments you can make to address them.
+
+Remember, it's okay to feel overwhelmed, and seeking support or taking time for self-care is a sign of strength. Give yourself grace as you find the right balance that works for you.
 
 ---
 
-**Prompt:**  
-<!-- Your prompt -->
+**Prompt:**
+I want to build better habits but I always give up after a few days. What advice do you have?
 
-**Result:**  
-<!-- App response -->
+**Result:**
+Building better habits can be challenging, but it's absolutely achievable with the right approach! Here are some strategies to help you stay committed and make lasting changes:
+
+1. **Start Small**: Instead of aiming for a drastic change, begin with small, manageable goals. For example, if you want to exercise regularly, start with just 5-10 minutes a day instead of an hour.
+
+2. **Be Specific**: Define your habits clearly. Instead of saying, "I want to read more," specify, "I will read for 10 minutes every day before bed."
+
+3. **Track Your Progress**: Keep a journal or use an app to track your habits. Seeing your progress can be motivating and help hold you accountable.
+
+4. **Connect with Your Why**: Understand the motivation behind your habits. Write down your reasons and refer back to them when you feel your motivation waning.
+
+5. **Create a Routine**: Incorporate your new habit into an existing routine. Pair it with another daily activity, like brushing your teeth or having your morning coffee.
+
+6. **Find Support**: Share your goals with friends or family or find a habit partner. Encouragement from others can boost your motivation and accountability.
+
+7. **Don't Be Too Hard on Yourself**: It's normal to have setbacks. If you miss a day, don't let it derail you. Acknowledge it, learn from it, and get back to your habit the next day.
+
+8. **Reward Yourself**: Celebrate small wins! Treat yourself when you reach certain milestones, as this reinforces the positive behavior.
+
+9. **Adjust as Necessary**: If a habit feels overwhelming or not right for you, don't hesitate to tweak it. Flexibility can help you find what truly works best for your lifestyle.
+
+10. **Visualize Success**: Spend a few minutes each day visualizing yourself successfully integrating your new habits into your life. This can strengthen your commitment and belief in your ability to succeed.
+
+Remember, change takes time, and consistency is key. Celebrate your progress, no matter how small, and focus on the journey rather than perfection. You've got this!
 
 ---
 
-**Prompt:**  
-<!-- Your prompt -->
+**Prompt:**
+How do I stop comparing myself to others and build more confidence?
 
-**Result:**  
-<!-- App response -->
+**Result:**
+It's great that you're recognizing the impact of comparisons on your confidence, and I'm here to support you on your journey! Here are some strategies that may help:
+
+1. **Acknowledge Your Feelings**: It's normal to compare yourself to others, but understanding why you feel that way is important. Acknowledge those feelings without judgment.
+
+2. **Limit Social Media Exposure**: Social media can amplify comparisons. Consider reducing your time on platforms that make you feel inadequate and curating your feed to include content that inspires and uplifts you.
+
+3. **Celebrate Your Achievements**: Keep a gratitude or accomplishment journal. Regularly write down your achievements, big or small, and reflect on what makes you unique. This practice can help shift your focus from others to yourself.
+
+4. **Set Personal Goals**: Focus on your own goals and aspirations. Break them down into smaller steps, which will provide a clearer path to progress and give you a sense of direction.
+
+5. **Practice Self-Compassion**: Treat yourself with the same kindness and understanding you would offer a friend. Remind yourself that everyone has struggles and that it's okay not to be perfect.
+
+6. **Mindfulness and Meditation**: Engaging in mindfulness practices can help you stay grounded and present. This can make it easier to recognize negative thought patterns and redirect them.
+
+7. **Surround Yourself with Positivity**: Spend time with supportive people who lift you up. Engaging in positive relationships can provide encouragement and perspective.
+
+8. **Focus on Growth**: Shift your mindset from comparison to growth. View others' successes as inspiration rather than benchmarks. Consider what you can learn from them.
+
+9. **Find Role Models**: Instead of comparing, find people you admire and learn from their journeys. They can serve as inspiration and provide valuable lessons without triggering self-doubt.
+
+10. **Seek Professional Help if Needed**: If these feelings persist and significantly impact your life, talking to a therapist or counselor can provide additional support and strategies tailored to your needs.
+
+Building confidence takes time and practice. Be patient and gentle with yourself as you work through this process. Remember, everyone has their unique path, and embracing yours is what truly matters.
 
 ---
 
@@ -284,8 +386,8 @@ Now test your app with **real-world prompts that are relevant to your use case**
 
 Are the vibes of your assistant aligned with your expectations? Why or why not?
 
-**Your Answer:**  
-<!-- Write your answer here -->
+**Your Answer:**
+Yes, the assistant's vibes are well-aligned with expectations for a supportive mental coach. The responses demonstrate empathy, encouragement, and practical guidance. The tone is warm and non-judgmental, using affirming language like "You've got this!" and "I'm here to support you." The structured advice format with numbered lists makes information accessible and actionable, which is appropriate for someone seeking mental health support.
 
 ---
 
@@ -297,24 +399,24 @@ Now test your app with prompts that require **capabilities it may not have yet**
 - External tools
 
 Examples:
-- “What does my schedule look like tomorrow?”
-- “What time should I leave for the airport?”
+- "What does my schedule look like tomorrow?"
+- "What time should I leave for the airport?"
 
 ---
 
-**Prompt:**  
-<!-- Your prompt -->
+**Prompt:**
+What does my schedule look like tomorrow?
 
-**Result:**  
-<!-- App response -->
+**Result:**
+I can't access your personal schedule, but I can help you plan or prioritize your tasks if you want! Just let me know what you have on your agenda, and we can work through it together.
 
 ---
 
-**Prompt:**  
-<!-- Your prompt -->
+**Prompt:**
+Can you remember what I told you about my work stress in our previous conversation?
 
-**Result:**  
-<!-- App response -->
+**Result:**
+I don't have the ability to remember past conversations, but I'm here to support you now! If you'd like, you can share what's stressing you at work, and we can talk about it together. How are you feeling about it?
 
 ---
 
@@ -322,8 +424,8 @@ Examples:
 
 What are some limitations of your application?
 
-**Your Answer:**  
-<!-- Write your answer here -->
+**Your Answer:**
+The application has several key limitations: (1) No access to personal data or external tools like calendars or scheduling systems, (2) No conversation memory - each interaction is stateless and cannot recall previous messages, (3) No real-time information access, and (4) Cannot perform actions like setting reminders or making appointments. The assistant acknowledges these limitations transparently when asked, which maintains trust while offering alternative support within its capabilities.
 
 ---
 
